@@ -52,7 +52,7 @@ where,
 ## Combining Probabilities and Corrections
 
 <p align="center">
-  <img src="corrections.png" alt="Corrections Formula" width="500">
+  <img src="dump/corrections.png" alt="Corrections Formula" width="500">
 </p>
 
 ## Procedure
