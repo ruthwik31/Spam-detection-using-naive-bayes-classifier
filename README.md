@@ -12,7 +12,6 @@ The dataset typically contains two columns:
 </ul><br>
 The dataset is used for training and evaluating machine learning models, particularly for binary classification tasks where the goal is to distinguish between spam and ham messages based on their content. 
 <br>
-The project then computes the cumulative GPA and prints the results, also allows to generate in PDF format.
 
 ## Spam Filtering with Naïve Bayes:
 
